@@ -1,1 +1,3 @@
-# Finding the best venue category in three neighbours from the city of Mérida, Yucatán, México.
+# Finding the best venues categories in three given neighbours from the city of Mérida, Yucatán, México.
+
+
